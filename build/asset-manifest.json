@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/uk/en/pages/product-generator/static/css/main.41ae5173.chunk.css",
+    "main.js": "/uk/en/pages/product-generator/static/js/main.da2e23fd.chunk.js",
+    "main.js.map": "/uk/en/pages/product-generator/static/js/main.da2e23fd.chunk.js.map",
+    "runtime-main.js": "/uk/en/pages/product-generator/static/js/runtime-main.de20d08d.js",
+    "runtime-main.js.map": "/uk/en/pages/product-generator/static/js/runtime-main.de20d08d.js.map",
+    "static/js/2.cfcde08f.chunk.js": "/uk/en/pages/product-generator/static/js/2.cfcde08f.chunk.js",
+    "static/js/2.cfcde08f.chunk.js.map": "/uk/en/pages/product-generator/static/js/2.cfcde08f.chunk.js.map",
+    "index.html": "/uk/en/pages/product-generator/index.html",
+    "static/css/main.41ae5173.chunk.css.map": "/uk/en/pages/product-generator/static/css/main.41ae5173.chunk.css.map",
+    "static/js/2.cfcde08f.chunk.js.LICENSE.txt": "/uk/en/pages/product-generator/static/js/2.cfcde08f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de20d08d.js",
+    "static/js/2.cfcde08f.chunk.js",
+    "static/css/main.41ae5173.chunk.css",
+    "static/js/main.da2e23fd.chunk.js"
+  ]
+}
